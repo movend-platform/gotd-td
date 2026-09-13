@@ -30,7 +30,7 @@ require (
 	github.com/pion/webrtc/v4 v4.2.16
 	github.com/refraction-networking/utls v1.8.2
 	github.com/rogpeppe/go-internal v1.15.0
-	github.com/stretchr/testify v1.11.1
+	github.com/stretchr/testify v1.12.1
 	github.com/yuin/goldmark v1.8.4
 	go.opentelemetry.io/otel v1.44.0
 	go.opentelemetry.io/otel/metric v1.44.0
@@ -54,7 +54,6 @@ require (
 	github.com/awnumar/memcall v0.4.0 // indirect
 	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dlclark/regexp2 v1.12.0 // indirect
 	github.com/fatih/color v1.19.0 // indirect
 	github.com/ghodss/yaml v1.0.0 // indirect
@@ -73,13 +72,13 @@ require (
 	github.com/pion/srtp/v3 v3.0.12 // indirect
 	github.com/pion/stun/v3 v3.1.6 // indirect
 	github.com/pion/turn/v5 v5.0.12 // indirect
-	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/segmentio/asm v1.2.1 // indirect
 	github.com/sergi/go-diff v1.1.0 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
 	github.com/wlynxg/anet v0.0.5 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.uber.org/ratelimit v0.3.1 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 // indirect
 	golang.org/x/mod v0.38.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
